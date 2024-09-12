@@ -1,0 +1,4 @@
+../Src/adc.c:8:10:pa0_adc_read	1
+../Src/adc.c:13:6:adc_init_start	1
+../Src/adc.c:19:6:adc_pa0_continous_conv_init	1
+../Src/adc.c:62:6:adc_pa0_single_conv_init	1

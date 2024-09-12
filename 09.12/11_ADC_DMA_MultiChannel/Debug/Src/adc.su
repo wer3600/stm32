@@ -1,0 +1,11 @@
+C:/Users/NNFTECH_LHY/STM32CubeIDE/STM32 HAL Workspace/11_ADC_DMA_MultiChannel/Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+C:/Users/NNFTECH_LHY/STM32CubeIDE/STM32 HAL Workspace/11_ADC_DMA_MultiChannel/Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	16	static
+../Src/adc.c:10:10:pa0_adc_read	8	static
+../Src/adc.c:15:6:adc_init_start	8	static
+../Src/adc.c:21:6:adc_pa0_continous_conv_init	56	static
+../Src/adc.c:64:6:adc_pa0_single_conv_init	56	static
+../Src/adc.c:108:6:adc_pa0_interrupt_init	56	static
+../Src/adc.c:153:6:adc_pa0_dma_init	56	static
+../Src/adc.c:216:6:adc_pa0pa4_dma_init	56	static
+../Src/adc.c:287:6:DMA2_Stream0_IRQHandler	8	static
+../Src/adc.c:292:6:ADC_IRQHandler	8	static
